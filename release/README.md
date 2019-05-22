@@ -8,9 +8,12 @@ Here, you can find executable installation files for both Android an iOS
 ### Android
 
 API level > 21 (*Android 5.0 Lollipop*)
-min. 1GHz
-512 GB RAM
 
 ### iOS
 
 iOS 9.0 or newer
+
+
+### Notes
+
+You may allow your device to install apps from another sources than the official Play/App Store. Instructions can be found on the web and are not part of this project.
