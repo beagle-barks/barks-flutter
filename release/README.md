@@ -14,6 +14,6 @@ API level > 21 (*Android 5.0 Lollipop*)
 iOS 9.0 or newer
 
 
-### Notes
+## Notes
 
-You may allow your device to install apps from another sources than the official Play/App Store. Instructions can be found on the web and are not part of this project.
+You may need to allow your device to install apps from another sources than the official Play/App Store. Instructions can be found on the web and are not part of this project.
